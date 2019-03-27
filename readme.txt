@@ -1,5 +1,5 @@
 
-"Boider plate code"
+Vermeidung von 'Boilerplate Code'
 
 
 Lamdas
